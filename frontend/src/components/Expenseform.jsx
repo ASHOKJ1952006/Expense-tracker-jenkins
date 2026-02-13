@@ -46,7 +46,7 @@ const Expenseform = (props) => {
 
   return (
     <div className="expense-form">
-      <h1>ADD EXPENSE</h1>
+      <h1>ADD EXXPENSE</h1>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="title">Title</label>
@@ -95,4 +95,5 @@ const Expenseform = (props) => {
 };
 
 export default Expenseform;
+
 
