@@ -62,7 +62,7 @@ const Expenseform = (props) => {
         </div>
 
         <div className="form-group">
-          <label htmlFor="amount">Amount</label>
+          <label htmlFor="amount">Amountttttttt</label>
           <input
             type="number"
             id="amount"
@@ -95,3 +95,4 @@ const Expenseform = (props) => {
 };
 
 export default Expenseform;
+
