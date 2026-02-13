@@ -17,7 +17,7 @@ const Counter = () => {
     }, [count2]);
   return (
     <div className='counter'>
-        <h2>Counterrrrrrrr</h2>
+        <h2>Counterrrrrrrrrrrr</h2>
         <h3>Count1: {count1}</h3>
         <h3>Count2: {count2}</h3>
         <button onClick={Increment1}>Increment 1</button>
@@ -28,3 +28,4 @@ const Counter = () => {
 
 
 export default Counter
+
