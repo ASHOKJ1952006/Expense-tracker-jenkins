@@ -17,7 +17,7 @@ const Expenseform = (props) => {
     };
 
     try {
-      const response = await fetch("http://13.51.64.174:5000/api/expenses", {
+      const response = await fetch("http://13.61.187.150:5000/api/expenses", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
