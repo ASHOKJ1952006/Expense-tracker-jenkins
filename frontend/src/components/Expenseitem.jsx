@@ -6,7 +6,7 @@ const Expenseitem = (props) => {
     <div className="expense-item">
     
       
-      <div className="expense-title">TITLE</div>
+      <div className="expense-title">TIiiiTLE</div>
       <div className="expense-amount">AMOUNT</div>
     </div>
   );
