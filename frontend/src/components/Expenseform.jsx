@@ -62,7 +62,7 @@ const Expenseform = (props) => {
         </div>
 
         <div className="form-group">
-          <label htmlFor="amount">Amountttttttt</label>
+          <label htmlFor="amount">Amount</label>
           <input
             type="number"
             id="amount"
